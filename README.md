@@ -31,9 +31,9 @@
   
 # Requirement 
 
-  * XAPP control panel
+  * XAMPP control panel
       * https://www.apachefriends.org/download.html
-  * After installing XAPP in actions start the following.
+  * After installing XAMPP in actions start the following.
       * Apeche 
       * Mysql
       
