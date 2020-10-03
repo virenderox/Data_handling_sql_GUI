@@ -4,6 +4,7 @@ import tkinter.messagebox as mb
 import mysql.connector as con
 from mysql.connector import errorcode
 import time
+import random
 
 def addNewDB():
     global root, newDbName
